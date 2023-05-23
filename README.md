@@ -43,3 +43,21 @@
     />
   </a>
 </div>
+
+---
+
+### 🙋‍♂️ Acerca de mi:
+
+- 👥 Trabajo en equipo
+
+- 🤓 Aprendizaje fluido
+
+- 🧠 Creatividad e innovación
+
+- 🇦🇷 Idioma nativo: **español**
+
+- 🇺🇸 Actualmente estudio **ingles**
+
+- 💻 Actualmente estoy aprendiendo **Desarrollo web full stack**
+
+- ⌨ Manejo de la terminal de linux
