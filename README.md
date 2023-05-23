@@ -67,7 +67,7 @@
     <div>
         <h3>- Lenguajes de Maquetado</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40px" height="40px">
     </div>
     <div>
         <h3>- Lenguajes de Programacion</h3>
