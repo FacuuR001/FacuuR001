@@ -18,4 +18,28 @@
       alt="Linkedin"
     />
   </a>
+  <a href="https://facuur001.github.io/Portfolio.github.io/">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%91%89-Portfolio-yellow"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.instagram.com/facu.rullo12/?igshid=ZDdkNTZiNTM%3D">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%91%89-Instagram-pink"
+      alt="Instagram"
+    />
+  </a>
+   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=facundorullo132@gmail.com">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%91%89-E--mail-red"
+      alt="E-mail"
+    />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5493515453894&text&type=phone_number&app_absent=0">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%91%89-WhatsApp-green"
+      alt="WhatsApp"
+    />
+  </a>
 </div>
