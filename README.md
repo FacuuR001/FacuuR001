@@ -61,3 +61,39 @@
 - 💻 Actualmente estoy aprendiendo **Desarrollo web full stack**
 
 - ⌨ Manejo de la terminal de linux
+
+---
+<div id="herramientas" align="left">
+    <div>
+        <h3>- Lenguajes de Maquetado</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svgx">
+    </div>
+    <div>
+        <h3>- Lenguajes de Programacion</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40px" height="40px">
+    </div>
+    <div>
+        <h3>- Framework y Librerias</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Axios" width="40px" height="40px">
+    </div>
+    <div>
+        <h3>- Preprocesadores</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40px" height="40px">
+    </div>
+    <div>
+        <h3>- Software y Herramientas</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" width="40px" height="40px">
+    </div>
+    <div>
+        <h3>- Sistemas de Diseño</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Ilustrator" width="40px" height="40px">
+    </div>
+</div>
