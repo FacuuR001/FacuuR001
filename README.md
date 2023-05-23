@@ -4,7 +4,7 @@
     alt="Git-Informatica"
     width="200"
   />
-  <h1 align="center">Hola, yo soy FacuuR001</h1>
+  <h1 align="center">Hola 👋, yo soy FacuuR001</h1>
   <h3 align="center">
     Soy estudiante de programación y ciencias de la computación. Me especializo
     en el área del desarrollo web y para la resolución de cualquier tipo de
