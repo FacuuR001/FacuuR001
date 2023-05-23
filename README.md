@@ -11,3 +11,11 @@
     problemas. Deseo unirme a un equipo talentoso y motivador.
   </h3>
 </div>
+<div id="redes" align="center">
+  <a href="">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%91%89-Linkedin-blue"
+      alt="Linkedin"
+    />
+  </a>
+</div>
