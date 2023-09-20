@@ -79,6 +79,7 @@
         <h3>- Framework y Librerias</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Axios" width="40px" height="40px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" alt="React" width="40px" height?"40px">
     </div>
     <div>
         <h3>- Preprocesadores</h3>
