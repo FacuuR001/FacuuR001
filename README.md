@@ -101,12 +101,12 @@
 ---
 <div>
   <h3>- Proyectos Personales</h3>
-  <a href="https://facuur001.github.io/Portfolio.github.io/">Portfolio Personal</a>
-  <a href="https://e-commerce-github-bhm2ldihp-facuur001.vercel.app/">E-commerce</a>
-  <a href="https://org-q2acqvk4m-facuur001.vercel.app/">Org</a>
-  <a href="https://sistema-de-clientes-uzod-8n2cs81lv-facuur001.vercel.app/">Sistema de Clientes</a>
-  <a href="https://app-tareas-7.netlify.app/">Lista de Tareas</a>
-  <a href="https://blog-de-cafe-landing.netlify.app/">Blog de Cafe</a>
-  <a href="https://facuur001.github.io/appeperia.github.io/">Appeperia</a>
-  <a href="https://facuur001.github.io/EncriptadorJS.github.io/">Encriptador</a>
+  <a href="https://facuur001.github.io/Portfolio.github.io/">Portfolio Personal</a> <br />
+  <a href="https://e-commerce-github-bhm2ldihp-facuur001.vercel.app/">E-commerce</a> <br />
+  <a href="https://org-q2acqvk4m-facuur001.vercel.app/">Org</a> <br />
+  <a href="https://sistema-de-clientes-uzod-8n2cs81lv-facuur001.vercel.app/">Sistema de Clientes</a> <br />
+  <a href="https://app-tareas-7.netlify.app/">Lista de Tareas</a> <br />
+  <a href="https://blog-de-cafe-landing.netlify.app/">Blog de Cafe</a> <br />
+  <a href="https://facuur001.github.io/appeperia.github.io/">Appeperia</a> <br />
+  <a href="https://facuur001.github.io/EncriptadorJS.github.io/">Encriptador</a> 
 </div>
