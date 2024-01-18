@@ -102,6 +102,6 @@
 <div>
   <h3>-💻 Proyectos Personales</h3>
   <ul>
-    <li> <a href="https://facuur001.github.io/Portfolio.github.io/">Portfolio Personal</a> <li/>
+    
   <ul/>
 </div>
