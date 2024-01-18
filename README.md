@@ -103,12 +103,5 @@
   <h3>-💻 Proyectos Personales</h3>
   <ul>
     <li> <a href="https://facuur001.github.io/Portfolio.github.io/">Portfolio Personal</a> <li/>
-    <li> <a href="https://e-commerce-github-bhm2ldihp-facuur001.vercel.app/">E-commerce</a> <li/>
-    <li> <a href="https://org-q2acqvk4m-facuur001.vercel.app/">Org</a> <li/>
-    <li> <a href="https://sistema-de-clientes-uzod-8n2cs81lv-facuur001.vercel.app/">Sistema de Clientes</a> <li/>
-    <li> <a href="https://app-tareas-7.netlify.app/">Lista de Tareas</a> <li/>
-    <li> <a href="https://blog-de-cafe-landing.netlify.app/">Blog de Cafe</a> <li/>
-    <li> <a href="https://facuur001.github.io/appeperia.github.io/">Appeperia</a> <li/>
-    <li> <a href="https://facuur001.github.io/EncriptadorJS.github.io/">Encriptador</a>  <li/>
   <ul/>
 </div>
