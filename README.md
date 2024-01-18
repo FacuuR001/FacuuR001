@@ -99,7 +99,7 @@
     </div>
 </div>
 ---
-### -💻 Proyectos Personales
+### 💻 Proyectos Personales
 <div>
   <ul>
     <li> <a href="https://facuur001.github.io/Portfolio.github.io/">Portfolio Personal</a> <li/>
