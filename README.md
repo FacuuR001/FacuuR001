@@ -98,3 +98,15 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Ilustrator" width="40px" height="40px">
     </div>
 </div>
+---
+<div>
+  <h3>- Proyectos Personales</h3>
+  <a href="https://facuur001.github.io/Portfolio.github.io/">Portfolio Personal</a>
+  <a href="https://e-commerce-github-bhm2ldihp-facuur001.vercel.app/">E-commerce</a>
+  <a href="https://org-q2acqvk4m-facuur001.vercel.app/">Org</a>
+  <a href="https://sistema-de-clientes-uzod-8n2cs81lv-facuur001.vercel.app/">Sistema de Clientes</a>
+  <a href="https://app-tareas-7.netlify.app/">Lista de Tareas</a>
+  <a href="https://blog-de-cafe-landing.netlify.app/">Blog de Cafe</a>
+  <a href="https://facuur001.github.io/appeperia.github.io/">Appeperia</a>
+  <a href="https://facuur001.github.io/EncriptadorJS.github.io/">Encriptador</a>
+</div>
