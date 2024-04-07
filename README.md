@@ -13,7 +13,7 @@
 <div id="redes" align="center">
    <a href="https://facuur001.github.io/BioLink.github.io/">
     <img
-      src="https://img.shields.io/badge/%F0%9F%91%89-Bio-Link-violet"
+      src="https://img.shields.io/badge/%F0%9F%91%89-BioLink-violet"
       alt="Bio-Link"
     />
   </a>
