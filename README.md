@@ -113,7 +113,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40px" height="40px">
-        <img src="https://scontent.fcor2-2.fna.fbcdn.net/v/t39.30808-6/242217483_4038306829614858_6127829889821043491_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=81yzuv7YGhgAb4xJMb7&_nc_ht=scontent.fcor2-2.fna&oh=00_AfCIFrnGTarzIAyN1LCF3fYrF9Fr_sfS7bJmDLDNNDv4-w&oe=6618D3F1" alt="NPM" width="40px" height="40px">
+    </div>
+    <div>
+        <h3>- Hosting</h3>
+        <img src="https://scontent.fcor2-2.fna.fbcdn.net/v/t39.30808-6/242217483_4038306829614858_6127829889821043491_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=81yzuv7YGhgAb4xJMb7&_nc_ht=scontent.fcor2-2.fna&oh=00_AfCIFrnGTarzIAyN1LCF3fYrF9Fr_sfS7bJmDLDNNDv4-w&oe=6618D3F1" alt="Hostinguer" width="40px" height="40px">
     </div>
 </div>
 <hr/>
