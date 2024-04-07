@@ -96,10 +96,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40px" height="40px">
     </div>
     <div>
-        <h3>- Software y Herramientas</h3>
+        <h3>- Herramientas</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Linux-Ubuntu" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" width="40px" height="40px">
+    </div>
+    <div>
+        <h3>- Software</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Linux-Ubuntu" width="40px" height="40px">
     </div>
     <div>
         <h3>- Sistemas de Diseño</h3>
