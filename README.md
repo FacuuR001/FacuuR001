@@ -75,8 +75,8 @@
     <div>
         <h3>- Lenguajes de Programacion</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Java" width="40px" height="40px">
     </div>
     <div>
         <h3>- Framework y Librerias</h3>
