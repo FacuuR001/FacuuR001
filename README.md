@@ -12,6 +12,12 @@
   </h3>
 </div>
 <div id="redes" align="center">
+   <a href="https://facuur001.github.io/BioLink.github.io/">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%91%89-Linkedin-blue"
+      alt="Linkedin"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/facundo-rullo/">
     <img
       src="https://img.shields.io/badge/%F0%9F%91%89-Linkedin-blue"
