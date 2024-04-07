@@ -7,7 +7,7 @@
   <h1 align="center">Hola 👋, soy Facundo Rullo</h1>
   <h3 align="center">
     Bienvenido a mi GitHub soy estudiante de desarrollo de software. Me especializo
-    en el área del desarrollo web aspirando a ser Full-Stack, tambien soy diseñador UX /UI 
+    en el área del desarrollo web aspirando a ser Full-Stack, también soy diseñador UX /UI 
   </h3>
 </div>
 <div id="redes" align="center">
@@ -61,7 +61,7 @@
 
 - 🇦🇷 Idioma nativo: **español**
 
-- 🇺🇸 Actualmente estudio **ingles**
+- 🇺🇸 Actualmente estudio **inglés**
 
 - ⌨ Manejo de la terminal de linux
 
@@ -73,17 +73,17 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40px" height="40px">
     </div>
     <div>
-        <h3>- Lenguajes de Programacion</h3>
+        <h3>- Lenguajes de Programación</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40px" height="40px">
     </div>
     <div>
-        <h3>- Tecnologias Low-Code</h3>
+        <h3>- Tecnologías Low-Code</h3>
         <img src="https://avatars.githubusercontent.com/u/16494738?s=200&v=4" alt="Python" width="40px" height="40px">
     </div>
     <div>
-        <h3>- Framework y Librerias</h3>
+        <h3>- Framework y Librerías</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwinds" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Axios" width="40px" height="40px">
