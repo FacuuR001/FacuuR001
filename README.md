@@ -97,7 +97,7 @@
     <div>
         <h3>- Sistemas de Diseño</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line-wordmark.svg" alt="Skecht" width="60px" height="60px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line-wordmark.svg" alt="Skecht" width="80px" height="80px">
     </div>
 </div>
 <hr/>
