@@ -113,6 +113,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40px" height="40px">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAeFBMVEVnTMT///9gQsJkSMO1rOBbO8BdPsFZOcBhRMKWh9RYN8BWNL/HwOf8/P6OfdFUMb/m4/TTzezp5/X08vq7suLb1/Crn9yDcM349/yfktfDu+WzqN/v7fh5ZMpwWMff2/FrUcVPKb1+acummdp0XciKeNBJHbvMxun1MAXLAAAB50lEQVRIie2UbY+jIBDHGaY8iVWqKGitD21dv/83XNRut7lccrpv7i7pP4aMML8Aw8wQ8tZb/7GkfJoU93BlFT1QGjuxHaUHyEa2mCKD4kp3gAD14i5MMEv5J+IVPPEneNi65SuY7Qc1pVSm590gHIOgu2CxA7TwraJVt63BQVepp6qK841c2JLUU7yqrutYbd1Rns/R62n3BKdxPO6KIL87qlazoI8fJ8A+0P4wc3DMv0C6K3MIituxWF+PkhjsZjC8CE0e9YvsovZ0AfLtjLu4f1z4Mv5+bTV/8aDkQkMZsMudvviudgjt/au4sG2jZUlDxayP+PzUimITuto418TEQenMRC04eQ25Hkfl3PzSDsBfcQHVxzlPHVTaglTQs55I2wiCoFIDMYLTecHxTsvjIJCZeGiWtNJwzI/NcIABERL0MPVIba5xBrMJKnAtJNQpXkLuXdR15ZpLGmwy5UMJKb3DKLXyHQtgtOyY2QTAkWDVeVqCS3rWNT4bHnfUB697OKnMs/Ywdo34BuvhFI7aeXVqAljdlDb1Haq5mTCj+K3g0hlftPNoHMpyvoUZxVTS3lwRp7yphTLGxDo+p3atACaJ5HPIBcd5ZCFk8wQJBpdhJvxzISiRoSVQQsO3ve+99dZf1yf/7B1FD+BpIwAAAABJRU5ErkJggg==" alt="NPM" width="40px" height="40px">
     </div>
 </div>
 <hr/>
