@@ -77,6 +77,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40px" height="40px">
+        <img src="https://avatars.githubusercontent.com/u/16494738?s=200&v=4" alt="Python" width="40px" height="40px">
     </div>
     <div>
         <h3>- Framework y Librerias</h3>
