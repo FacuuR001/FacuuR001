@@ -88,6 +88,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwinds" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Axios" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite-JS" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="React MUI" width="40px" height="40px">
     </div>
     <div>
@@ -97,7 +98,7 @@
     <div>
         <h3>- Software y Herramientas</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Linux-Ubuntu" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" width="40px" height="40px">
     </div>
     <div>
@@ -109,7 +110,8 @@
         <h3>- Herramientas</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40px" height="40px">
     </div>
 </div>
