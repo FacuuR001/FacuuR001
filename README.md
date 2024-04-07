@@ -80,7 +80,6 @@
     </div>
     <div>
         <h3>- Tecnologias Low-Code</h3>
-        
         <img src="https://avatars.githubusercontent.com/u/16494738?s=200&v=4" alt="Python" width="40px" height="40px">
     </div>
     <div>
