@@ -6,15 +6,14 @@
   />
   <h1 align="center">Hola 👋, yo soy FacuuR001</h1>
   <h3 align="center">
-    Soy estudiante de programación y ciencias de la computación. Me especializo
-    en el área del desarrollo web y para la resolución de cualquier tipo de
-    problemas. Deseo unirme a un equipo talentoso y motivador.
+    Soy estudiante de desarrollo de software. Me especializo
+    en el área del desarrollo web aspirando a ser full-stack, tambien soy diseñador UX /UI 
   </h3>
 </div>
 <div id="redes" align="center">
    <a href="https://facuur001.github.io/BioLink.github.io/">
     <img
-      src="https://img.shields.io/badge/%F0%9F%91%89-Linkedin-blue"
+      src="https://img.shields.io/badge/%F0%9F%91%89-Linkedin-violet"
       alt="Bio-Link"
     />
   </a>
