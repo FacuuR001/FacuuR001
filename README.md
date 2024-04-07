@@ -61,7 +61,7 @@
 
 - 🇦🇷 Idioma nativo: **español**
 
-- 🇺🇸 Estudiante del idioma **ingles**
+- 🇺🇸 Actualmente estudio **ingles**
 
 - ⌨ Manejo de la terminal de linux
 
