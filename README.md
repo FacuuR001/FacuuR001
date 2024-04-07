@@ -4,7 +4,7 @@
     alt="Git-Informatica"
     width="200"
   />
-  <h1 align="center">Hola 👋, yo soy FacuuR001</h1>
+  <h1 align="center">Hola 👋, yo soy Facundo Rullo</h1>
   <h3 align="center">
     Soy estudiante de desarrollo de software. Me especializo
     en el área del desarrollo web aspirando a ser full-stack, tambien soy diseñador UX /UI 
