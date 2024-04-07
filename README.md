@@ -103,7 +103,14 @@
     <div>
         <h3>- Sistemas de Diseño</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line.svg" alt="Skecht" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Skecht" width="40px" height="40px">
+    </div>
+    <div>
+        <h3>- Herramientas</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40px" height="40px">
     </div>
 </div>
 <hr/>
