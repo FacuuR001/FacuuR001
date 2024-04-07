@@ -107,7 +107,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Skecht" width="40px" height="40px">
     </div>
     <div>
-        <h3>- Herramientas de Trabajo</h3>
+        <h3>- Trabajo en Equipo</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="40px" height="40px">
     </div>
