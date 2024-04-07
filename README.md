@@ -76,7 +76,7 @@
         <h3>- Lenguajes de Programacion</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Java" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40px" height="40px">
     </div>
     <div>
         <h3>- Framework y Librerias</h3>
@@ -97,7 +97,7 @@
     <div>
         <h3>- Sistemas de Diseño</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line-wordmark.svg" alt="Photoshop" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-line-wordmark.svg" alt="Skecht" width="60px" height="60px">
     </div>
 </div>
 <hr/>
