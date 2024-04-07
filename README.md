@@ -61,9 +61,7 @@
 
 - 🇦🇷 Idioma nativo: **español**
 
-- 🇺🇸 Actualmente estudio **ingles**
-
-- 💻 Actualmente estoy aprendiendo **Desarrollo web full stack**
+- 🇺🇸 Estudiante del idioma **ingles**
 
 - ⌨ Manejo de la terminal de linux
 
