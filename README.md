@@ -17,7 +17,7 @@
       alt="Bio-Links"
     />
   </a>
-  <a href="https://www.linkedin.com/in/facundo-rullo/">
+  <a href="https://ar.linkedin.com/in/facundo-rullo-152bbb279?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F">
     <img
       src="https://img.shields.io/badge/%F0%9F%91%89-Linkedin-blue"
       alt="Linkedin"
