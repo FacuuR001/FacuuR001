@@ -11,7 +11,7 @@
   </h3>
 </div>
 <div id="redes" align="center">
-   <a target="_blank" href="https://facuur001.github.io/BioLink.github.io/">
+   <a href="https://facuur001.github.io/BioLink.github.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/%F0%9F%91%89-BioLinks-violet"
       alt="Bio-Links"
